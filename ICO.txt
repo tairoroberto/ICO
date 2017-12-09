@@ -1,0 +1,101 @@
+
+Analisar uma ICO 
+
+Junto com um colega de turma, escolha uma ICO que chamar a atenção de vocês. 
+Leia o Whitepaper, entenda as condições da oferta de tokens, a tecnologia por trás, a função do token. 
+Com esse entendimento, escreva um trabalho suscinto.
+
+A pedidos, coloquei a data para o final de dezembro. 
+Mas sugiro fortemente que façam o trabalho em dupla logo, 
+para aproveitar que as informações estão frescas na cabeça e tirar logo da frente.
+Em último caso, o trabalho pode ser feito individualmente, 
+mas a discussão com uma segunda pessoa é parte fundamental desse trabalho. 
+
+– Número de páginas recomendadas: 2 páginas. Pode ser um pouco mais, se achar necessário. 
+Mas não precisa. Menos de 2 páginas não é suficiente para responder às questões com a profundidade necessária.  
+Não há página de rosto. 
+Apenas o nome de vocês é suficiente para identificação.
+
+– Responder às seguintes perguntas em relação à ICO escolhida
+#############################################################################################################################
+
+https://www.coinschedule.com/icos/e1416/prosense-ico.html
+https://ico.prosense.tv/tpl/wl.pdf
+https://ico.prosense.tv/?#about
+
+
+-  Uso de blockchain faz sentido? Sim ou não? Por quê? [5 linhas]
+
+– Descrever o sistema e o uso de blockchain [10 linhas]
+
+– Descrever funcionamento e a proposta de valor para o cliente [5 linhas]. O cliente é o usuário final do produto ou serviço sendo oferecido.
+	O token é usado como moeda local em nossa plataforma.
+	O token não implica a propriedade de ações da empresa ou de qualquer parte do mesmo.
+
+– Identificar o blockchain utilizado [1linha]
+	Ethereum
+
+– Identificar endereços de carteiras e contratos relevantes [2 linhas]
+	Não possui carteiras no momento pis ainda não foi lançada.
+
+- Analisar a qualidade do time [5 linhas]. 
+As pessoas envolvidas no projeto despertam confiança? 
+Demonstram ter o conhecimento necessário para desenvolver o projeto? 
+Já têm experiência prévia em projetos semelhantes, mesmo que fora da área de blockchain?	
+	Stanislav Glukhoedov	CEO and Co-founder, VR Evangelist	
+	Vladimir Bakuteev	Co-founder	
+	Grigory Vasinkevich	Co-founder	
+	Nataliya Kopylova	Co-founder	
+	Leonard Dick	Director of Strategic Partnerships	
+	Roberto Pagano	Director, Mobile Netrwork Operators and pay TV service providers	
+	Andy Hooper	Director of Cloud Solutions and Services	
+	Tobias Neumann	Business Development Director for Western Europe and the Near East
+	Denis Ivanov	R&D Executive Director	
+	Dmitry Plakhov	Principal platform architect, blockchain development team leader
+	Evgeny Timko	Director of IR	
+	Stanislav Kolesnik	Head of engineering department	
+	Ivan Gavrenkov	Head of content production department	
+	Scott Ross	Advisor (CEO at Digital Domain, Vice President at LucasFilm, Advisory Board at Magic Leap, Lenovo)
+	Michael Terpin	Advisor (CEO of Transform Group, chairman BitAngels)	
+	Jesse Damiani	Advisor (Editor-at-Large, VRScout; CEO & Co-Founder, Galatea)	
+	Nick Evdokimov	Advisor (Founder of Cryptonomos)	
+	Brad Kohn	Advisor (Producer; Global Community Director at Superbloom Capital; Director at Creative Ninjastries; Creative Director at Home Farm Media)	
+	Moe Levin	Advisor (CEO of Keynote)	
+	Katrina Arden	Advisor (Founder of Blockchain Law Group)	
+	Andrey Kirilenko	Advisor (President of the Russian Federation of Basketball)	
+	Ross Ivett	Advisor (CEO and Founder at REI Consulting)	
+	Dmitriy Filatov	Advisor (Founder of ICORating)
+
+– Descrever a proposta de valor para investidores [5 linhas]. 
+Investidores são as pessoas que pensam em comprar o token durante a ICO para lucrar com a sua valorização. 
+O que indica uma valorização futura do token?
+	Após a distribuição, o investidor receberá tokens, que o investidor poderá usar na plataforma PROSENSE.TV
+	para comprar o conteúdo e que permite que os espectadores paguem os detentores de direitos autorais diretamente pela exibição de conteúdo.
+	Uma certa porcentagem da taxa de conteúdo é deduzida e vai ao fundo de premiação, o que ajuda a motivar a rede de parceiros (nós de parceiros)
+
+– Identificar jurisdição e PJs [2 linhas] [Questão bônus. 
+Às vezes não é fácil identificar as empresas envolvidas e onde elas têm sua sede. 
+Se for esse o caso, discuta brevemente se isso é um problema para o projeto ou para o investidor]
+Companhia: Prosensetv LP
+Endereço: Castle House, 1 Baker Street, Suite 4, Stirling, FK8 1AL, Scotland, UK
+http://prosense.tv/en/company/
+
+– Identificar Exchanges [1 linha]. Onde os tokens estão (ou serão) negociados?
+	Não existem exchanges até o momento nefgociando os tokens.
+
+– Descrever comportamentos do preço [3 linhas] (apenas se for uma ICO já finalizada)
+
+– Você investiria? [5 linhas]
+	Devido ao alto crescimento do uso de tecnologias baseadas em VR, parece-me um bom ativo de investimento com grande potencial de retorno.
+
+O objetivo do trabalho é demonstrar que vocês buscaram por algumas ICOs interessantes, 
+viram suas propostas e escolheram uma que faça sentido para vocês. 
+A análise mais aprofundada dessa ICO servirá como exercício para análise futura de projetos de blockchain. 
+Seja pelo interesse em investir  em ICOs futuros, seja pelo interesse de utilizar o serviço ou produto, 
+aprender a programar para esse sistema ou mesmo trabalhar na área.
+
+Para quem tem interesse em trabalhar na área, aqui vai um link para uma newsletter que 
+divulgará empregos em blockchain: https://medium.com/@etiennebr/?crypto-jobs-newsletter-beta-fe7945ce681
+
+Boa sorte!
+Bresslau
